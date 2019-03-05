@@ -18,4 +18,3 @@ function johnLennonFacts(facts){
   }
   return array
   }
-}
