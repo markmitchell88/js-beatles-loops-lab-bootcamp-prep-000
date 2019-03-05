@@ -10,6 +10,7 @@ function theBeatlesPlay(musicians,instruments){
 }
 
 function johnLennonFacts(facts){
+  for (let i=0, i=facts.length, i++)
   while(i < facts){
     return array("`$facts`!!!")
   }
